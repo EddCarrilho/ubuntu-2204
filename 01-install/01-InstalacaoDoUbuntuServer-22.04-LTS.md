@@ -155,8 +155,8 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 	
 	_ 11. Profile setup
 	_ 		Your name: Seu Nome e Sobrenome <Tab>
-	_ 		Your server's name: wsvaamonde <Tab>
-	_ 		Pick a username: vaamonde <Tab>
+	_ 		Your server's name: wseduardo <Tab>
+	_ 		Pick a username: eduardo <Tab>
 	_ 		Choose a passwords: pti@2018 <Tab>
 	_ 		Confirm your passwords: pti@2018
 			OBSERVAÇÃO: ALTERAR OS DADOS DO NOME DO SERVIDOR, USUÁRIO E SENHA PARA O SEU
@@ -184,5 +184,5 @@ Instalação do Ubuntu Server: https://ubuntu.com/server/docs/installation
 	AGUARDAR A INICIALIZAÇÃO TOTAL DO SERVIDOR UBUNTU SERVER, NO FINAL SERÁ GERADO VÁRIAS
 	CHAVES DE AUTENTICAÇÃO DO SSH SERVER, PRESSIONAR <ENTER> PARA APARECER A TELA DE LOGIN
 
-	_ swvaamonde login: vaamonde <Enter>
+	_ swvaamonde login: eduardo <Enter>
 	_ Password: pti@2018 <Enter>
