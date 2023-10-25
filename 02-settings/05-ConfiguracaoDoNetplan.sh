@@ -126,8 +126,8 @@ sudo vim /etc/hosts
 		
 		#adicionar o endereço IPv4 e nome FQDN do seu servidor na linha 3
 		127.0.0.1     localhost
-		127.0.1.1     wsvaamonde.pti.intra     wsvaamonde
-		192.168.0.XXX  wsvaamonde.pti.intra    wsvaamonde
+		127.0.1.1     wseduardo.pti.intra     wseduardo
+		192.168.0.XXX  wseduardo.pti.intra    wseduardo
 	
 	#salvar e sair do arquivo
 	ESC SHIFT : x <Enter>
