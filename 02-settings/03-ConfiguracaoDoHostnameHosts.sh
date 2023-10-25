@@ -32,7 +32,7 @@ sudo vim /etc/hostname
 		
 		#adicionar o nome de domínio na linha 1
 		#OBSERVAÇÃO IMPORTANTE: ALTERAR O NOME DO DOMÍNIO PARA O SEU CENÁRIO
-		wsvaamonde.pti.intra
+		wseduardo.pti.intra
 	
 	#sair e salvar o arquivo
 	ESC SHIFT : x <Enter>
@@ -44,7 +44,7 @@ sudo vim /etc/hosts
 		#adicionar o nome de domínio e apelido na linha 2
 		#OBSERVAÇÃO IMPORTANTE: ALTERAR O NOME DO DOMÍNIO PARA O SEU CENÁRIO
 		127.0.0.1 localhost
-		127.0.1.1 wsvaamonde.pti.intra 	wsvaamonde
+		127.0.1.1 wseduardo.pti.intra 	wseduardo
 	
 	#sair e salvar o arquivo
 	ESC SHIFT : x <Enter>
