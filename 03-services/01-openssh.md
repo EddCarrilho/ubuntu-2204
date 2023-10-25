@@ -105,8 +105,8 @@ em sessões de comunicações em uma rede de computadores usando o protocolo SSH
 	sudo vim /etc/issue.net
 	INSERT
 
-		#alterar a linha do: Servidor: wsvaamonde
-		Servidor: wsvaamonde
+		#alterar a linha do: Servidor: wseduardo
+		Servidor: wseduardo
 
 	#sair e salvar o arquivo
 	ESC SHIFT :x <Enter>
@@ -121,7 +121,7 @@ em sessões de comunicações em uma rede de computadores usando o protocolo SSH
 		Pesquisa do Windows
 			Powershell
 
-	ssh vaamonde@192.168.0.XXX (alterar para o endereço IPv4 do seu servidor)
+	ssh eduardo@192.168.0.XXX (alterar para o endereço IPv4 do seu servidor)
 
 	Windows
 		Pesquisa do Windows
@@ -129,7 +129,7 @@ em sessões de comunicações em uma rede de computadores usando o protocolo SSH
 
 	Category
 		Session
-			Host Name (or IP address): vaamonde@192.168.0.XXX (alterar para o endereço IPv4 do seu servidor)
+			Host Name (or IP address): eduardo@192.168.0.XXX (alterar para o endereço IPv4 do seu servidor)
 			Port: 22
 			SSH: On
 	<Open>
